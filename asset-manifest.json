@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/disney-character-hub/static/css/main.5ed3b8be.css",
+    "main.js": "/disney-character-hub/static/js/main.86e2e8e0.js",
+    "static/js/787.3b5b1578.chunk.js": "/disney-character-hub/static/js/787.3b5b1578.chunk.js",
+    "index.html": "/disney-character-hub/index.html",
+    "main.5ed3b8be.css.map": "/disney-character-hub/static/css/main.5ed3b8be.css.map",
+    "main.86e2e8e0.js.map": "/disney-character-hub/static/js/main.86e2e8e0.js.map",
+    "787.3b5b1578.chunk.js.map": "/disney-character-hub/static/js/787.3b5b1578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ed3b8be.css",
+    "static/js/main.86e2e8e0.js"
+  ]
+}
